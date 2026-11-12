@@ -14,3 +14,29 @@
 - **Data Export to CSV:** the lease information can be downloaded after using the application for further processing and examination.
 
 ## Technical Stack
+-Python
+-Streamlit
+-Pandas
+-PyPDF
+-Groq API
+-python-dotenv
+
+## Project Layout
+
+AI-Real-Estate-Lease-Analyzer/
+│
+├── app.py
+├── requirements.txt
+├── README.md
+└── .gitignore
+
+## Safety Measures
+
+-API keys are stored in the environment variables.
+F-iles that are important, such as .env and Streamlit secrets, are not included in the project by utilizing the .gitignore mechanism.
+
+## Project Information
+-Name of Project: AI Real Estate Lease Analyzer
+-Type of Project: AI-Powered Web Application
+-Field of Work: AI | Real Estate | Document Analysis
+-Educational Prototype Project
