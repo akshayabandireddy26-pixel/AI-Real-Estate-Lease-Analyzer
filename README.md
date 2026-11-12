@@ -33,7 +33,7 @@ AI-Real-Estate-Lease-Analyzer/
 ## Safety Measures
 
 - API keys are stored in the environment variables.
-- **Files that are important, such as .env and Streamlit secrets, are not included in the project by utilizing the .gitignore mechanism.
+- Files that are important, such as .env and Streamlit secrets, are not included in the project by utilizing the .gitignore mechanism.
 
 ## Project Information
 -Name of Project: AI Real Estate Lease Analyzer
