@@ -2,6 +2,9 @@
 
 **Python, Streamlit, and Groq AI** technologies have been used in the creation of a web application powered by AI technology aimed at analyzing and evaluating different types of commercial lease agreements.
 
+## Live Demo
+https://ai-real-estate-lease-analyzer.streamlit.app/
+
 ## Features
 
 - **PDF Text Extraction:** PDF documents can be uploaded to extract descriptive texts of lease agreements.
